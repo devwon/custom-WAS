@@ -9,7 +9,6 @@
 | 언어 | Java (JRE 1.8) |
 | HTTP Version | HTTP/1.1 |  
 | 빌드 툴 | Maven  |
-| Persistence 프레임워크 | JPA/Hibernate |  
 | 단위 테스트 라이브러리| Junit 4(AssertJ 3)|  
 | 로깅 프레임워크| Logback 1.2.3 |
 | IDE | IntelliJ|
